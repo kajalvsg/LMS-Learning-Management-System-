@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Learning Management System (LMS)
 
 A full-stack Learning Management System built with MERN stack, TypeScript, and PostgreSQL for analytics.
@@ -144,3 +145,7 @@ LMS/
 
 ISC
 
+=======
+# LMS-Learning-Management-System-
+# Learning Management System (LMS)  A full-stack Learning Management System built with MERN stack, TypeScript, and PostgreSQL for analytics. 
+>>>>>>> 0736ca1cf64e6e300138e02818d18adbdb517790
